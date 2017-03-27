@@ -1,0 +1,15 @@
+# /dev/nvme0n1p5
+UUID=6fbf7afd-f3a4-4ec5-914a-ca7635daf1ee	/         	ext4      	rw,relatime,data=ordered	0 1
+
+# /dev/nvme0n1p2
+#UUID=603A-3041      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro	0 2
+
+# /dev/nvme0n1p9
+/dev/nvme0n1p9      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro	0 2
+
+# /dev/nvme0n1p6
+UUID=a740e0f3-c1f7-4aa1-aaf8-b6f8f299e348	none      	swap      	defaults  	0 0
+
+# /dev/sda3
+
+UUID=e81b9d1c-ee42-473c-89c5-1f349ad77eb0       /mnt            ext4            defaults,rw,noatime             0 1
